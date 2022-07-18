@@ -4,7 +4,7 @@
       "id": 1,
       "User_Name": "Andres Gomez",
       "Subject": "i can´t login to my account",
-      "Customer Satifation": "100%",
+      "Customer_Satifation": "100%",
       "Priority": "High",
       "Status": "Solved"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "User_Name": "Ezequiel Salatino",
       "Subject": "i need help!!,can´t login my playvox account",
-      "Customer Satifation": "80%",
+      "Customer_Satifation": "80%",
       "Priority": "Medium",
       "Status": "Open"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "User_Name": "Emiliano Cosenza",
       "Subject": "i need help!!,can´t login my playvox account",
-      "Customer Satifation": "80%",
+      "Customer_Satifation": "80%",
       "Priority": "Medium",
       "Status": "Open"
     }

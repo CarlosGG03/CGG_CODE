@@ -10,13 +10,13 @@
         <th>Status</th>
       </tr>
     </thead>
-    <tbody>
+    <tbody *ngFor="let Data of Data ">
       <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>{{Data.User_Name}}</td>
+        <td>{{Data.Subject}}</td>
+        <td>{{Data.Customer_Satifation}}</td>
+        <td>{{Data.Priority}}</td>
+        <td>{{Data.Status}}</td>
       </tr>
     </tbody>
   </table>
