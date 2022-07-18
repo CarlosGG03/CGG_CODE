@@ -20,7 +20,7 @@ export class DatatableComponent implements OnDestroy,OnInit {
       pagingType: 'full_numbers',
       pageLength: 2
     };
-    this.http.get('http://localhost:4200/src/assets/Data.json')
+    this.http.get('https://github.com/CarlosGG03/CGG_CODE/blob/master/TT_OPI/src/assets/Data.json')
       .subscribe(console.log);
   }
 
