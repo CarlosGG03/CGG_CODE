@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\Componetes",
+    "\\src\\app\\Componetes\\datatable",
+    "\\src\\assets",
+    "\\src\\datatable",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\src\\app\\Componetes\\datatable\\Data.json",
+  "PreviewInSolutionExplorer": false
+}
